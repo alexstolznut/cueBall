@@ -278,6 +278,7 @@ html,body{
       margin-bottom: 10%;
     }
     #orgTxt{
+      margin-left: 8%;
     	float: center;
     	width:55%;
     	padding-bottom:10%;
@@ -680,8 +681,8 @@ h1,h3,h5{
   margin-bottom: 10%;*/
 }
 #orgTxt{
-	margin-left: 5%;
-	width:55%;
+	/*margin-left: 5%;*/
+	width:50%;
 	padding-bottom:10%;
   /*margin-bottom:10%;*/
 }
