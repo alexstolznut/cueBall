@@ -48,6 +48,19 @@ html,body{
 		margin-top: 0%;
 	}
 }*/
+#reserveButton1{
+  margin-left: 45%;
+  /*margin-left: 20%;*/
+  width: 100%;
+}
+#callTxt{
+	text-align:center;
+	padding-bottom: 5%;
+	width:50%;
+
+  /*margin-top:10%;
+  margin-bottom: 10%;*/
+}
 /*#################################### DESKTOP NAV STYLING START #################################*/
 @media(min-width:761px){
 
@@ -238,7 +251,7 @@ html,body{
 	#icons{
 		display: inherit;
 		width:100%;
-		height: 4em;
+		/*height: 4em;*/
 		background-color:#fff;
 		margin-left: 0;
 		position: relative;
@@ -275,21 +288,27 @@ html,body{
 
     }
     #callTxt{
-    	text-align:center;
+    	text-align: center;
     	padding-bottom: 5%;
     	width:50%;
       margin-top:10%;
       margin-bottom: 10%;
     }
     #orgTxt{
+      margin-left: 8%;
     	float: center;
     	width:55%;
     	padding-bottom:10%;
       margin-bottom:10%;
     }
     #reserveButton1{
+<<<<<<< HEAD
       text-align: center;
       margin-right:25%;
+=======
+      width: 30%;
+      margin: 0 auto;
+>>>>>>> a33808730fa802d6f2823e7de3fdbb697a970b12
     }
     #resForm{
     	width:100%;
@@ -672,17 +691,17 @@ h1,h3,h5{
 	/*height: 5em;*/
 	float:center;
 }
+<<<<<<< HEAD
 #callTxt{
 	text-align:left;
 	padding-bottom: 5%;
 	width:50%;
+=======
+>>>>>>> a33808730fa802d6f2823e7de3fdbb697a970b12
 
-  /*margin-top:10%;
-  margin-bottom: 10%;*/
-}
 #orgTxt{
-	margin-left: 5%;
-	width:55%;
+	/*margin-left: 5%;*/
+	width:50%;
 	padding-bottom:10%;
   /*margin-bottom:10%;*/
 }
@@ -952,7 +971,7 @@ img.equipment_pic{
 }
 .footer{
 	width: 100%;
-	height: 30em;
+	/*height: 30em;*/
 	background-color: #0e89e7;
 }
 #footerHours {

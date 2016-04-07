@@ -24,5 +24,19 @@
   ],
   "cordovaPlatforms": [
     "ios"
-  ]
+  ],
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexstolznut/cueBall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexstolznut/cueBall/issues"
+  },
+  "homepage": "https://github.com/alexstolznut/cueBall#readme"
 }
